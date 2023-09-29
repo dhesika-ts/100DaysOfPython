@@ -1,21 +1,21 @@
-# 100DaysOfPython with 100 projects 
+# 100DaysOfPython with 100Projects 
 
--Day 1:
-Topics: String, String manipulation, Error handling, Input Functions, String Functions, Variables and naming conventions.
-Project: BandNameGenerator
-Link: https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day1
+- Day 1:<br/>
+Topics: String, String manipulation, Error handling, Input Functions, String Functions, Variables and naming conventions.<br/>
+Project: BandNameGenerator<br/>
+Link: https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day1 <br/><br/>
 
--Day 2:
-Topics: Data Types, Type casting, Arithmetic operation, Formatting.
-Project: TipCalculator
-Link: https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day2
+- Day 2:<br/>
+Topics: Data Types, Type casting, Arithmetic operation, Formatting.<br/>
+Project: TipCalculator<br/>
+Link: https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day2 <br/><br/>
 
--Day 3:
-Topics:
-Project:
-Link: https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3
+- Day 3:<br/>
+Topics: Conditional Statements, Logical Operations, Code Blocks, Namespacing<br/>
+Project:TreasureIsland <br/>
+Link: https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3 <br/><br/>
 
--Day 4:
-Topics:
-Project:
-Link:
+- Day 4:<br/>
+Topics:<br/>
+Project:<br/>
+Link: <br/><br/>

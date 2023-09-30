@@ -12,10 +12,15 @@ Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day2](https://git
 
 - Day 3:<br/>
 Topics: Conditional Statements, Logical Operations, Code Blocks, Namespacing<br/>
-Project:TreasureIsland <br/>
+Project: TreasureIsland <br/>
 Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3) <br/><br/>
 
 - Day 4:<br/>
+Topics: Randomization, List, Nested List OutofIndex Error<br/>
+Project: RockPaperScissors Game<br/>
+Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4) <br/><br/>
+
+- Day 5:<br/>
 Topics:<br/>
 Project:<br/>
 Link: <br/><br/>

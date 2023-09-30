@@ -16,7 +16,7 @@ Project: TreasureIsland <br/>
 Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3) <br/><br/>
 
 - Day 4:<br/>
-Topics: Randomization, List, Nested List OutofIndex Error<br/>
+Topics: Randomization, List,StringtoList Nested List, IndexOutofBoundError<br/>
 Project: RockPaperScissors Game<br/>
 Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4) <br/><br/>
 

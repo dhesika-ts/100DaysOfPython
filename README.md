@@ -1,4 +1,4 @@
-# with 100Projects 
+# 100Projects 
 
 - Day 1:<br/>
 Topics: String, String manipulation, Error handling, Input Functions, String Functions, Variables and naming conventions.<br/>
@@ -16,7 +16,7 @@ Project: TreasureIsland <br/>
 Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3) <br/><br/>
 
 - Day 4:<br/>
-Topics: Randomization, List,StringtoList Nested List, IndexOutofBoundError<br/>
+Topics: Randomization, List, StringtoList, Nested List, IndexOutofBoundError<br/>
 Project: RockPaperScissors Game<br/>
 Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4) <br/><br/>
 

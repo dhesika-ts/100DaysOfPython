@@ -1,4 +1,4 @@
-# 100DaysOfPython with 100Projects 
+# with 100Projects 
 
 - Day 1:<br/>
 Topics: String, String manipulation, Error handling, Input Functions, String Functions, Variables and naming conventions.<br/>

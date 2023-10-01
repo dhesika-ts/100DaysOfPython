@@ -21,6 +21,11 @@ Project: RockPaperScissors Game<br/>
 Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4) <br/><br/>
 
 - Day 5:<br/>
+Topics: Loops, ListShuffle<br/>
+Project: PasswordGenerator<br/>
+Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5) <br/><br/>
+
+- Day 6:<br/>
 Topics:<br/>
 Project:<br/>
 Link: <br/><br/>

@@ -34,10 +34,10 @@ Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5](https://git
 Topics: CodeBlock, Indentation, Functions, While loop<br/>
 Project: Lost in the Maze Project<br/>
 Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5)
- ![LostInTheMaze_Project](/Day5/LostInTheMaze_Project.png)<br/><br/>
+ ![LostInTheMaze_Project](/Day6/LostInTheMaze_Project.png)<br/><br/>
 
- -Day 7:<br/>
+ - Day 7:<br/>
  Topics:<br/>
  Project:<br/>
  Link:<br/>
- ![](/Day5/.png)<br/><br/>
+ ![](/Day7/.png)<br/><br/>

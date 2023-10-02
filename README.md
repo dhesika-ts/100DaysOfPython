@@ -36,7 +36,7 @@ Project: Lost in the Maze Project<br/>
 Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5)
  ![LostInTheMaze_Project](/Day5/LostInTheMaze_Project.png)<br/><br/>
 
- -Day 8:<br/>
+ -Day 7:<br/>
  Topics:<br/>
  Project:<br/>
  Link:<br/>

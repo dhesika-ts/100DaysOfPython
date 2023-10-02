@@ -31,6 +31,13 @@ Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5](https://git
 ![PasswordGenerator_Project](/Day5/PasswordGenerator_Project.png)<br/><br/>
 
 - Day 6:<br/>
-Topics:<br/>
-Project:<br/>
-Link: <br/><br/>
+Topics: CodeBlock, Indentation, Functions, While loop<br/>
+Project: Lost in the Maze Project<br/>
+Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5)
+ ![LostInTheMaze_Project](/Day5/LostInTheMaze_Project.png)<br/><br/>
+
+ -Day 8:<br/>
+ Topics:<br/>
+ Project:<br/>
+ Link:<br/>
+ ![](/Day5/.png)<br/><br/>

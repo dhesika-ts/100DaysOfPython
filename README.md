@@ -1,7 +1,7 @@
 # 100Projects ##
 
 - ## Day 1 ##
-  <table>
+<table>
     <tr>
         <td><strong>Topics</strong></td>
         <td>String, String manipulation, Error handling, Input Functions,<br/> String Functions, Variables and naming conventions.</td>
@@ -14,12 +14,12 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day1">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day1</a></td>
     </tr>
-  </table>
+</table>
 
 ![BandNameGenerator<](/Day1/BandNameGenerator_Project.png)<br/><br/>
  
  - ## Day 2 ##
-   <table>
+<table>
     <tr>
         <td><strong>Topics</strong></td>
         <td>Data Types, Type casting, Arithmetic operation, Formatting.</td>
@@ -31,13 +31,14 @@
     <tr>
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day2">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day2</a></td>
-    </tr></table>
+    </tr>
+</table>
   
   
 ![TipCalculator](/Day2/TipCalculator.png)<br/><br/>
 
 - ## Day 3  ##                                                                   
-  <table>
+<table>
     <tr>
         <td><strong>Topics</strong></td>
         <td>Conditional Statements, Logical Operations, Code Blocks, Namespacing.</td>
@@ -50,12 +51,12 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3</a></td>
     </tr>
-  </table>
+</table>
   
 ![TresureIsland_project](/Day3/TresureIsland_project.png)<br/><br/>
 
 - ## Day 4  ##                                                                   
- <table>
+<table>
     <tr>
         <td><strong>Topics</strong></td>
         <td>Randomization, List, String to List, Nested List, Index Out of Bound Error.</td>
@@ -68,12 +69,12 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day4</a></td>
     </tr>
-  </table>
+</table>
 
 ![RockPaperScissorsGame_Project](/Day4/RockPaperScissorsGame_Project.png)<br/><br/>
 
 - ## Day 5   ##                                                                   
-  <table>
+<table>
     <tr>
         <td><strong>Topics</strong></td>
         <td>Loops, List Shuffle.</td>
@@ -86,12 +87,12 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day5</a></td>
     </tr>
-  </table>
+</table>
   
 ![PasswordGenerator_Project](/Day5/PasswordGenerator_Project.png)<br/><br/>
 
 - ## Day 6   ##                                                                   
- <table>
+<table>
     <tr>
         <td><strong>Topics</strong></td>
         <td>Code Block, Indentation, Functions, While Loop.</td>
@@ -104,7 +105,7 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day6">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day6</a></td>
     </tr>
-  </table>
+</table>
   
 ![LostInTheMaze_Project](/Day6/LostInTheMaze_Project.png)<br/><br/>
 
@@ -122,12 +123,12 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day7">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day7</a></td>
     </tr>
-  </table>
+</table>
   
 ![Hangman_Project](/Day7/Hangman_Project.png)<br/><br/>
 
 - ## Day 8   ##                                                                   
-  <table>
+<table>
     <tr>
         <td><strong>Topics</strong></td>
         <td></td>
@@ -140,7 +141,7 @@
         <td><strong>Link</strong></td>
         <td><a href=""></a></td>
     </tr>
-  </table>
+</table>
  ![](/Day8/.png)<br/><br/>
 
 

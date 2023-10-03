@@ -4,7 +4,7 @@
   <table>
     <tr>
         <td><strong>Topics</strong></td>
-        <td>String, String manipulation, Error handling, Input Functions, String Functions, Variables and naming conventions.</td>
+        <td>String, String manipulation, Error handling, Input Functions,<br/> String Functions, Variables and naming conventions.</td>
     </tr>
     <tr>
         <td><strong>Project</strong></td>
@@ -14,10 +14,9 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day1">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day1</a></td>
     </tr>
-</table>
+  </table>
 
-<img src="/Day1/BandNameGenerator_Project.png" alt="BandNameGenerator">
-<br><br>
+![BandNameGenerator<](/Day1/BandNameGenerator_Project.png)<br/><br/>
  
 
 - | Day 2   |                                                                   |

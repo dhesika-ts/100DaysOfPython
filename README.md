@@ -31,8 +31,8 @@
     <tr>
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day2">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day2</a></td>
-    </tr>
-  </table>
+    </tr></table>
+  
   
 ![TipCalculator](/Day2/TipCalculator.png)<br/><br/>
 

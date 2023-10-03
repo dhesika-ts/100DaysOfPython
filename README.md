@@ -18,7 +18,7 @@
 
 ![BandNameGenerator<](/Day1/BandNameGenerator_Project.png)<br/><br/>
  
- - ## Day 1 ##
+ - ## Day 2 ##
    <table>
     <tr>
         <td><strong>Topics</strong></td>

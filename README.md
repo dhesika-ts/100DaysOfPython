@@ -1,8 +1,9 @@
 # 100Projects 
 
-- | Day 1   |                                                                   |
-  |-------- |-------------------------------------------------------------------|
+- ## Day 1                                                                      
+  
   | Topics  | String, String manipulation, Error handling, Input Functions,<br/> String Functions, Variables and naming conventions.|
+  |-------- |-------------------------------------------------------------------|
   | Project | BandNameGenerator |
   | Link    | [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day1](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day1) |
 ![BandNameGenerator<](/Day1/BandNameGenerator_Project.png)<br/><br/>

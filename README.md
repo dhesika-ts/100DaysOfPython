@@ -37,7 +37,13 @@ Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day6](https://git
  ![LostInTheMaze_Project](/Day6/LostInTheMaze_Project.png)<br/><br/>
 
  - Day 7:<br/>
+ Topics: Modules, List, String, for and while loops for HangMan Project<br/>
+ Project: Hangman Game<br/>
+ Link: [https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day7](https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day7)<br/>
+ ![Hangman_Project](/Day7/Hangman_Project.png)<br/><br/>
+
+  - Day 8:<br/>
  Topics:<br/>
  Project:<br/>
  Link:<br/>
- ![](/Day7/.png)<br/><br/>
+ ![](/Day8/.png)<br/><br/>

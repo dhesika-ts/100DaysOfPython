@@ -1,5 +1,10 @@
 # 100Projects 
 
+| Day 1                                                                                                                      |
+|-------- |------------------------------------------------------------------------------------------------------------------|
+| Topics  | String, String manipulation, Error handling, Input Functions, String Functions, Variables and naming conventions.|
+| Project | BandNameGenerator |
+
 - Day 1:<br/>
 Topics: String, String manipulation, Error handling, Input Functions, String Functions, Variables and naming conventions.<br/>
 Project: BandNameGenerator<br/>

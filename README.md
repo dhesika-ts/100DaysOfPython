@@ -142,7 +142,9 @@
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day8">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day8</a></td>
     </tr>
 </table>
+
 ![CaeserCipher_Project](/Day8/CaeserCipher_Project.png)<br/><br/>
+
 
 - ## Day 9   ##                                                                   
 <table>
@@ -159,6 +161,7 @@
         <td><a href=""></a></td>
     </tr>
 </table>
- ![](/Day9/.png)<br/><br/>
+
+![](/Day9/.png)<br/><br/>
 
 

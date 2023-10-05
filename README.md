@@ -162,11 +162,12 @@
     </tr>
 </table>
 
-
-[![Video](/Day9/SilentAuctionProgram_Project.png)](/Day9/SilentAuctionProgram_Project.png.mp4)<br/><br/>
-
-
-
+<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
+  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
+    <source src="/Day9/SilentAuctionProgram_Project.png.mp4" type="video/mp4">
+    SilentAuctionProgram Project Video
+  </video>
+</div><br/><br/>
 
 - ## Day 10   ##                                                                   
 <table>

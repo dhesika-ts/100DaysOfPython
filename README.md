@@ -107,7 +107,7 @@
     </tr>
 </table>
   
-![LostInTheMaze_Project](/Day6/LostInTheMaze_Project.png)<br/><br/>
+![LostInTheMaze_Project](/Day6/LostInTheMaze_Project.png)<br/><br/> 
 
 - ## Day 7   ##                                                                   
 <table>

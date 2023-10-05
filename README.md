@@ -150,6 +150,28 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Dictionaries,Nesting List and Dictionaries </td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>SilentAuctionProgram Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day9">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day9</a></td>
+    </tr>
+</table>
+
+
+[![Video](/Day9/SilentAuctionProgram_Project.png)](/Day9/SilentAuctionProgram_Project.png.mp4)<br/><br/>
+
+
+
+
+- ## Day 10   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -162,6 +184,6 @@
     </tr>
 </table>
 
-![](/Day9/.png)<br/><br/>
+![](/Day10/.png)<br/><br/>
 
 

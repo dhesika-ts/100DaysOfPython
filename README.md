@@ -160,14 +160,16 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day9">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day9</a></td>
     </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/9mTfRA6RGic">https://youtu.be/9mTfRA6RGic</a></td>
+    </tr>
 </table>
 
-<div style="position: relative; padding-bottom: 56.25%; padding-top: 25px; height: 0;">
-  <video style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" controls>
-    <source src="/Day9/SilentAuctionProgram_Project.mp4" type="video/mp4">
-    SilentAuctionProgram Project Video
-  </video>
-</div><br/><br/>
+Click the Project image to watch video!<br/>
+
+[![Video Title](/Day9/SilentAuctionProgram_Project.png)](https://youtu.be/9mTfRA6RGic)
+
 
 - ## Day 10   ##                                                                   
 <table>

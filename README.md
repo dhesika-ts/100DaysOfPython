@@ -175,6 +175,31 @@ Click the Project image to watch video!<br/>
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Fuctions and Outputs, Recursion, Return statements</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>Calculator Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day10">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day10</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/9mTfRA6RGic">https://youtu.be/9mTfRA6RGic</a></td>
+    </tr>
+</table>
+
+Click the Project image to watch video!<br/>
+
+[![Video Title](/Day10/Calculator_Project.png)](https://youtu.be/9mTfRA6RGic)
+
+
+- ## Day 11   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -187,6 +212,6 @@ Click the Project image to watch video!<br/>
     </tr>
 </table>
 
-![](/Day10/.png)<br/><br/>
+![](/Day11/.png)<br/><br/>
 
 

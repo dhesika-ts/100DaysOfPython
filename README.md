@@ -166,8 +166,6 @@
     </tr>
 </table>
 
-Click the Project image to watch video!<br/>
-
 [![Video Title](/Day9/SilentAuctionProgram_Project.png)](https://youtu.be/9mTfRA6RGic)
 
 
@@ -175,7 +173,7 @@ Click the Project image to watch video!<br/>
 <table>
     <tr>
         <td><strong>Topics</strong></td>
-        <td>Fuctions and Outputs, Recursion, Return statements</td>
+        <td>Functions and Outputs, Recursion, Return statements</td>
     </tr>
     <tr>
         <td><strong>Project</strong></td>
@@ -187,16 +185,38 @@ Click the Project image to watch video!<br/>
     </tr>
     <tr>
         <td><strong>Video Link</strong></td>
-        <td><a href="https://youtu.be/9mTfRA6RGic">https://youtu.be/9mTfRA6RGic</a></td>
+        <td><a href="https://youtu.be/eiEPmHySoSo">https://youtu.be/eiEPmHySoSo</a></td>
     </tr>
 </table>
 
-Click the Project image to watch video!<br/>
 
 [![Video Title](/Day10/Calculator_Project.png)](https://youtu.be/9mTfRA6RGic)
 
 
 - ## Day 11   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
+        <td>Capstone Project</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>BlackJack Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day11">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day11</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/ySimampXt4g">https://youtu.be/ySimampXt4g</a></td>
+    </tr>
+</table>
+
+
+[![Video Title](/Day11/BlackJack_Project.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
+
+- ## Day 12   ##                                                                   
 <table>
     <tr>
         <td><strong>Topics</strong></td>
@@ -213,5 +233,5 @@ Click the Project image to watch video!<br/>
 </table>
 
 ![](/Day11/.png)<br/><br/>
-
+[![Video Title](/Day12/.png)](https://youtu.be/9mTfRA6RGic)
 

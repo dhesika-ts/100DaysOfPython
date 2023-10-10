@@ -242,6 +242,26 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Debugging ,Thonny ,Python Tutor</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>Debugging</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day13">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day13</a></td>
+    </tr>
+</table>
+
+![Debugging](/Day13/Debugging.png)<br/><br/>
+
+
+
+- ## Day 14   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -254,6 +274,6 @@
     </tr>
 </table>
 
-![](/Day13/.png)<br/><br/>
-[![Video Title](/Day13/.png)](https://youtu.be/9mTfRA6RGic)
+![](/Day14/.png)<br/><br/>
+[![Video Title](/Day14/.png)](https://youtu.be/9mTfRA6RGic)
 

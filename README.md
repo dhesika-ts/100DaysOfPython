@@ -201,7 +201,7 @@
     </tr>
     <tr>
         <td><strong>Project</strong></td>
-        <td>BlackJack Project</td>
+        <td>Blackjack Project</td>
     </tr>
     <tr>
         <td><strong>Link</strong></td>
@@ -220,6 +220,28 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Local Scope, Global Scope, Namespace</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>NumberGuessingGame Project</td>
+    </tr>
+   <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day12">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day12</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/YpUdO4-GtWs">https://youtu.be/YpUdO4-GtWs</a></td>
+    </tr>
+</table>
+
+[![Video Title](/Day12/NumberGuessingGame_Project.png)](https://youtu.be/YpUdO4-GtWs)
+
+- ## Day 13   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -232,6 +254,6 @@
     </tr>
 </table>
 
-![](/Day11/.png)<br/><br/>
-[![Video Title](/Day12/.png)](https://youtu.be/9mTfRA6RGic)
+![](/Day13/.png)<br/><br/>
+[![Video Title](/Day13/.png)](https://youtu.be/9mTfRA6RGic)
 

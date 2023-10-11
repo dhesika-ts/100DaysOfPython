@@ -282,6 +282,24 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>PyCharm Installation and walkthrough, Project</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>CoffeeMachine Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day15">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day15</a></td>
+    </tr>
+</table>
+
+[![Video Title](/Day15/CoffeeMachine_Project.png)](https://youtu.be/d0yUlTJoblU)<br/><br/>
+
+- ## Day 16   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -294,8 +312,8 @@
     </tr>
 </table>
 
-![](/Day15/.png)
-[![Video Title](/Day15/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
+![](/Day16/.png)
+[![Video Title](/Day16/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
 
 
 

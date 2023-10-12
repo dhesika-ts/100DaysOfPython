@@ -300,6 +300,26 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>OOPS</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>CoffeeMakerWithClassesAndObjects Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day16">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day16</a></td>
+    </tr>
+</table>
+
+![CoffeeMakerWithClassesAndObjects_Project](/Day16/CoffeeMakerWithClassesAndObjects_Project.png)
+
+
+
+- ## Day 17   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -312,8 +332,8 @@
     </tr>
 </table>
 
-![](/Day16/.png)
-[![Video Title](/Day16/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
+![](/Day17/.png)
+[![Video Title](/Day17/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
 
 
 

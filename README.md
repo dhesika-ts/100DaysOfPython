@@ -292,6 +292,10 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day15">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day15</a></td>
     </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/d0yUlTJoblU">https://youtu.be/d0yUlTJoblU</a></td>
+    </tr>
 </table>
 
 [![Video Title](/Day15/CoffeeMachine_Project.png)](https://youtu.be/d0yUlTJoblU)<br/><br/>
@@ -315,8 +319,30 @@
 ![CoffeeMakerWithClassesAndObjects_Project](/Day16/CoffeeMakerWithClassesAndObjects_Project.png)
 
 
-
 - ## Day 17   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
+        <td>Benefits of OOPS, constructor, pass keyword</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>Quiz Project with OOPS</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day17">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day17</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/0r-uvCCJgqg">https://youtu.be/0r-uvCCJgqg</a></td>
+    </tr>
+</table>
+
+[![Video Title](/Day17/Quiz_Project.png)](https://youtu.be/0r-uvCCJgqg)<br/><br/>
+
+
+- ## Day 18   ##                                                                   
 <table>
     <tr>
         <td><strong>Topics</strong></td>
@@ -332,8 +358,8 @@
     </tr>
 </table>
 
-![](/Day17/.png)
-[![Video Title](/Day17/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
+![](/Day18/.png)
+[![Video Title](/Day18/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
 
 
 

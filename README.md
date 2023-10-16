@@ -342,7 +342,30 @@
 [![Video Title](/Day17/Quiz_Project.png)](https://youtu.be/0r-uvCCJgqg)<br/><br/>
 
 
-- ## Day 18   ##                                                                   
+- ## Day 19   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
+        <td>Turtle Graphics</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>HirstPainting Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day17">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day17</a></td>
+    </tr>
+        <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/THYDwWTn_wk">https://youtu.be/THYDwWTn_wk</a></td>
+    </tr>
+</table>
+
+[![Video Title](/Day18/HirstPainting_Project.png)](https://youtu.be/THYDwWTn_wk)<br/><br/>
+
+
+- ## Day 19   ##                                                                   
 <table>
     <tr>
         <td><strong>Topics</strong></td>
@@ -358,8 +381,8 @@
     </tr>
 </table>
 
-![](/Day18/.png)
-[![Video Title](/Day18/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
+![](/Day19/.png)
+[![Video Title](/Day19/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
 
 
 

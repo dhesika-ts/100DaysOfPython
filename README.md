@@ -369,6 +369,30 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Advanced Turtle Graphics, EventListeners, Higher-order state, multiple instances</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>TurtleRace Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day19">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day19</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/bT-K3SVSERE">https://youtu.be/bT-K3SVSERE</a></td>
+    </tr>
+</table>
+
+![](/Day19/.png)
+[![Video Title](/Day19/TurtleRace_Project.png)](https://youtu.be/bT-K3SVSERE)<br/><br/>
+
+- ## Day 20   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -381,8 +405,8 @@
     </tr>
 </table>
 
-![](/Day19/.png)
-[![Video Title](/Day19/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
+![](/Day20/.png)
+[![Video Title](/Day20/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
 
 
 

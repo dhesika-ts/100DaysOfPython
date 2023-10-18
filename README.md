@@ -393,6 +393,33 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Tutrle Graphics methods (setup, bgcolor, title, tracer, update, time.sleep)</td>
+    </tr>
+    <tr>
+        <td><strong>Modules Completed</strong></td>
+        <td>Create Snake body, Move the Snake, Control the Snake</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>SnakeGame Part1</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day20">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day20</a></td>
+    </tr>
+     </tr>
+        <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/UedY_eHs_Eg">https://youtu.be/UedY_eHs_Eg</a></td>
+    </tr>
+</table>
+
+[![Video Title](/Day20/SnakeGame_Part1.png)](https://youtu.be/UedY_eHs_Eg)<br/><br/>
+
+- ## Day 21   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -401,12 +428,17 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day20"></a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td><strong>Video Link</strong></td>
         <td><a href=""></a></td>
     </tr>
+    
 </table>
 
 ![](/Day20/.png)
-[![Video Title](/Day20/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
-
+[![Video Title](/Day21/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
 
 

@@ -393,7 +393,7 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
-        <td>Tutrle Graphics methods (setup, bgcolor, title, tracer, update, time.sleep)</td>
+        <td>Turtle Graphics methods (setup, bgcolor, title, tracer, update, time.sleep)</td>
     </tr>
     <tr>
         <td><strong>Modules Completed</strong></td>
@@ -420,6 +420,35 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Class Inheritance, Slicing, More Turtle methods </td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>SnakeGame Part2</td>
+    </tr>
+    <tr>
+        <td><strong>Modules completed</strong></td>
+        <td>Detect collision with food, Create Scoreboard, Detect collision with wall, Detect Collision with Tail</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day21">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day21</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/TufT3y-uyrY">https://youtu.be/TufT3y-uyrY</a></td>
+    </tr>
+    
+</table>
+
+![](/Day20/.png)
+[![Video Title](/Day21/SnakeGame_Part2.png)](https://youtu.be/TufT3y-uyrY)<br/><br/>
+
+- ## Day 22   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -428,7 +457,7 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day20"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day22"></a></td>
     </tr>
     </tr>
         <tr>
@@ -438,7 +467,7 @@
     
 </table>
 
-![](/Day20/.png)
-[![Video Title](/Day21/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
+![](/Day22/.png)
+[![Video Title](/Day22/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
 
 

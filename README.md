@@ -449,6 +449,35 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Advanced Turtle Graphics, OOPS</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>Pong Game</td>
+    </tr>
+    <tr>
+        <td><strong>Modules</strong></td>
+        <td>Creating Screen, Creating and moving Paddles, Creating and moving Ball, Detecting Collision with wall and Bounce, <br>Detecting collision with Paddle, Detecting misses, Keeping Score</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day22">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day22</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/DY2EtEtsfgQ">https://youtu.be/DY2EtEtsfgQ</a></td>
+    </tr>
+    
+</table>
+
+![](/Day22/.png)
+[![Video Title](/Day22/Pong_Game.png)](https://youtu.be/DY2EtEtsfgQ)<br/><br/>
+
+- ## Day 23   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -457,7 +486,7 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day22"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day23"></a></td>
     </tr>
     </tr>
         <tr>
@@ -467,7 +496,7 @@
     
 </table>
 
-![](/Day22/.png)
-[![Video Title](/Day22/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
+![](/Day23/.png)
+[![Video Title](/Day23/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
 
 

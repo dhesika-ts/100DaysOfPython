@@ -486,7 +486,7 @@
     </tr>
     <tr>
         <td><strong>Modules</strong></td>
-        <td>Move Turtle with Key, Create and move cars, Detect collisions with cars, Detect when Turtle reaches other side, Create scoreboard</td>
+        <td>Move Turtle with Key, Create and move cars, Detect collisions with cars,<br/> Detect when Turtle reaches another side, Create scoreboard</td>
     </tr>
     <tr>
         <td><strong>Link</strong></td>
@@ -507,6 +507,31 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Files,Directories and Paths</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>SnakeGame Updated with HighScore, MailMerge</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day24">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day24</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/fgc-hzSCkWc">https://youtu.be/fgc-hzSCkWc</a></td>
+    </tr>
+    
+</table>
+
+![](/Day24/MailMerge_Project.png)
+[![Video Title](/Day24/SnakeGame_Updated.png)](https://youtu.be/fgc-hzSCkWc)<br/><br/>
+
+- ## Day 25   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -515,7 +540,7 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day24"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day25"></a></td>
     </tr>
     </tr>
         <tr>
@@ -525,7 +550,7 @@
     
 </table>
 
-![](/Day24/.png)
-[![Video Title](/Day23/.png)](https://youtu.be/bCJrOqn2Kl8)<br/><br/>
+![](/Day25/.png)
+[![Video Title](/Day25/.png)](https://youtu.be/fgc-hzSCkWc)<br/><br/>
 
 

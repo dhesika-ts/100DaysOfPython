@@ -478,6 +478,35 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Turtle Graphics, Random Chances</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>TurtleCrossing Capstone Game Project</td>
+    </tr>
+    <tr>
+        <td><strong>Modules</strong></td>
+        <td>Move Turtle with Key, Create and move cars, Detect collisions with cars, Detect when Turtle reaches other side, Create scoreboard</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day23">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day23</a></td>
+    </tr>
+    </tr>
+        <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/bCJrOqn2Kl8">https://youtu.be/bCJrOqn2Kl8</a></td>
+    </tr>
+    
+</table>
+
+![](/Day23/.png)
+[![Video Title](/Day23/TurtleCrossing_Game.png)](https://youtu.be/bCJrOqn2Kl8)<br/><br/>
+
+- ## Day 24   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -486,7 +515,7 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day23"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day24"></a></td>
     </tr>
     </tr>
         <tr>
@@ -496,7 +525,7 @@
     
 </table>
 
-![](/Day23/.png)
-[![Video Title](/Day23/.png)](https://youtu.be/9mTfRA6RGic)<br/><br/>
+![](/Day24/.png)
+[![Video Title](/Day23/.png)](https://youtu.be/bCJrOqn2Kl8)<br/><br/>
 
 

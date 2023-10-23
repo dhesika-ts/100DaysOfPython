@@ -366,6 +366,7 @@
 
 
 - ## Day 19   ##                                                                   
+
 <table>
     <tr>
         <td><strong>Topics</strong></td>
@@ -379,8 +380,7 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day19">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day19</a></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><strong>Video Link</strong></td>
         <td><a href="https://youtu.be/bT-K3SVSERE">https://youtu.be/bT-K3SVSERE</a></td>
     </tr>
@@ -407,8 +407,7 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day20">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day20</a></td>
     </tr>
-     </tr>
-        <tr>
+    <tr>
         <td><strong>Video Link</strong></td>
         <td><a href="https://youtu.be/UedY_eHs_Eg">https://youtu.be/UedY_eHs_Eg</a></td>
     </tr>
@@ -434,8 +433,7 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day21">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day21</a></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><strong>Video Link</strong></td>
         <td><a href="https://youtu.be/TufT3y-uyrY">https://youtu.be/TufT3y-uyrY</a></td>
     </tr>
@@ -463,8 +461,7 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day22">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day22</a></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><strong>Video Link</strong></td>
         <td><a href="https://youtu.be/DY2EtEtsfgQ">https://youtu.be/DY2EtEtsfgQ</a></td>
     </tr>
@@ -492,8 +489,7 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day23">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day23</a></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><strong>Video Link</strong></td>
         <td><a href="https://youtu.be/bCJrOqn2Kl8">https://youtu.be/bCJrOqn2Kl8</a></td>
     </tr>
@@ -507,7 +503,7 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
-        <td>Files,Directories and Paths</td>
+        <td>Files, Directories and Paths</td>
     </tr>
     <tr>
         <td><strong>Project</strong></td>
@@ -517,8 +513,7 @@
         <td><strong>Link</strong></td>
         <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day24">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day24</a></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><strong>Video Link</strong></td>
         <td><a href="https://youtu.be/fgc-hzSCkWc">https://youtu.be/fgc-hzSCkWc</a></td>
     </tr>
@@ -532,6 +527,30 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Pandas and its methods, DataFrame, Series, Turtle image coordinates</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>States Guessing Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day25">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day25</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/u2DzJI_PEnk">https://youtu.be/u2DzJI_PEnk</a></td>
+    </tr>
+    
+</table>
+
+![](/Day25/.png)
+[![Video Title](/Day25/States_Project.png)](https://youtu.be/u2DzJI_PEnk)<br/><br/>
+
+- ## Day 26   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -540,17 +559,16 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day25"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day26"></a></td>
     </tr>
-    </tr>
-        <tr>
+    <tr>
         <td><strong>Video Link</strong></td>
         <td><a href=""></a></td>
     </tr>
     
 </table>
 
-![](/Day25/.png)
-[![Video Title](/Day25/.png)](https://youtu.be/fgc-hzSCkWc)<br/><br/>
+![](/Day26/.png)
+[![Video Title](/Day26/.png)](https://youtu.be/u2DzJI_PEnk)<br/><br/>
 
 

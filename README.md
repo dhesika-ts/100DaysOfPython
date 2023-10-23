@@ -551,6 +551,26 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>List Comprehension, Dictionary Comprehension, Looping through rows in Pandas DataFrame</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>PhoneticDictionary Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day26">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day26</a></td>
+    </tr>
+    
+</table>
+
+![PhoneticDictionary_Project](/Day26/PhoneticDictionary_Project.png)
+
+
+- ## Day 27   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -559,7 +579,7 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day26"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day27"></a></td>
     </tr>
     <tr>
         <td><strong>Video Link</strong></td>
@@ -568,7 +588,7 @@
     
 </table>
 
-![](/Day26/.png)
-[![Video Title](/Day26/.png)](https://youtu.be/u2DzJI_PEnk)<br/><br/>
+![](/Day27/.png)
+[![Video Title](/Day27/.png)](https://youtu.be/u2DzJI_PEnk)<br/><br/>
 
 

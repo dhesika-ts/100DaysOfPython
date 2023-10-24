@@ -591,6 +591,29 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Tkinter, Canvas, Timer</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>Pomodoro Project (Productivity Timer App for regular work & break)</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day28">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day28</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/Z5_vGZu2kHQ">https://youtu.be/Z5_vGZu2kHQ</a></td>
+    </tr>
+    
+</table>
+
+[![Video Title](/Day28/Pomodoro_Project.png)](https://youtu.be/Z5_vGZu2kHQ)<br/><br/>
+
+- ## Day 29   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -599,7 +622,7 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day28"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day29"></a></td>
     </tr>
     <tr>
         <td><strong>Video Link</strong></td>
@@ -608,8 +631,8 @@
     
 </table>
 
-![](/Day28/.png)
-[![Video Title](/Day28/.png)](https://youtu.be/u2DzJI_PEnk)<br/><br/>
+![](/Day29/.png)
+[![Video Title](/Day29/.png)](https://youtu.be/u2DzJI_PEnk)<br/><br/>
 
 
 

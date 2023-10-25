@@ -640,6 +640,31 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Errors and Exceptions, Exception Handling, JSON(read, write and update)</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>PasswordManager Updated (With Search Password option and data in JSON file)</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day30">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day30</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/LxVostOktjk">https://youtu.be/LxVostOktjk</a></td>
+    </tr>
+    
+</table>
+
+![](/Day30/.png)
+[![Video Title](/Day30/PasswordManager_Updated.png)](https://youtu.be/LxVostOktjk)<br/><br/>
+
+
+- ## Day 31   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -648,7 +673,7 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day30"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day31"></a></td>
     </tr>
     <tr>
         <td><strong>Video Link</strong></td>
@@ -657,7 +682,6 @@
     
 </table>
 
-![](/Day30/.png)
-[![Video Title](/Day30/.png)](https://youtu.be/r5e31j_ptOI)<br/><br/>
-
+![](/Day31/.png)
+[![Video Title](/Day31/.png)](https://youtu.be/LxVostOktjk)<br/><br/>
 

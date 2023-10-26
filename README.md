@@ -665,7 +665,7 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
-        <td>Tkinter, to_csv ,index, timer ,Buttons with image</td>
+        <td>Tkinter ,to_csv ,index ,timer ,Buttons with image</td>
     </tr>
     <tr>
         <td><strong>Project</strong></td>
@@ -689,6 +689,31 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Send emails with smtplib ,Datetime module ,PythonAnywhere(to run python code in cloud) </td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>BirthdayWisher Project </td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day32">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day32</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/HbbzzYnguEA">https://youtu.be/HbbzzYnguEA</a></td>
+    </tr>
+    
+</table>
+
+![](/Day32/.png)
+[![Video Title](/Day32/BirthdayWisher_Project.png)](https://youtu.be/HbbzzYnguEA)<br/><br/>
+
+
+- ## Day 33   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -697,15 +722,14 @@
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day32"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day33"></a></td>
     </tr>
     <tr>
         <td><strong>Video Link</strong></td>
-        <td><a href=""></a></td>
+        <td><a href="https://youtu.be/HbbzzYnguEA"></a></td>
     </tr>
     
 </table>
 
-![](/Day32/.png)
-[![Video Title](/Day32/.png)](https://youtu.be/4VluVhOLuf0)<br/><br/>
-
+![](/Day33/.png)
+[![Video Title](/Day33/.png)](https://youtu.be/HbbzzYnguEA)<br/><br/>

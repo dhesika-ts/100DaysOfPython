@@ -665,7 +665,7 @@
 <table>
     <tr>
         <td><strong>Topics</strong></td>
-        <td>Tkinter, to_csv ,index, timer ,delete </td>
+        <td>Tkinter, to_csv ,index, timer ,Buttons with image</td>
     </tr>
     <tr>
         <td><strong>Project</strong></td>

@@ -734,6 +734,30 @@ IssOverheadNotifier_Project
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>Type hints, HTML unescape, OpenTrivia API, Disable Button</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>GUI Quiz App</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day34">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day34</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/GqFyZ6992JY">https://youtu.be/GqFyZ6992JY</a></td>
+    </tr>
+    
+</table>
+
+![](/Day34/.png)
+[![Video Title](/Day34/GuiQuizApp_Project.png)](https://youtu.be/GqFyZ6992JY)<br/><br/>
+
+- ## Day 35   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -742,7 +766,7 @@ IssOverheadNotifier_Project
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day34"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day35"></a></td>
     </tr>
     <tr>
         <td><strong>Video Link</strong></td>
@@ -751,5 +775,5 @@ IssOverheadNotifier_Project
     
 </table>
 
-![](/Day34/.png)
-[![Video Title](/Day34/.png)](https://youtu.be/HbbzzYnguEA)<br/><br/>
+![](/Day35/.png)
+[![Video Title](/Day35/.png)](https://youtu.be/GqFyZ6992JY)<br/><br/>

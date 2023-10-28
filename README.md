@@ -758,6 +758,30 @@ IssOverheadNotifier_Project
 <table>
     <tr>
         <td><strong>Topics</strong></td>
+        <td>API Authentication, Keys, Twilio(SMS), Environment variables, Open Weather Map API</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>RainAlert Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day35">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day35</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/g_-eNNz1BNk">https://youtu.be/g_-eNNz1BNk</a></td>
+    </tr>
+    
+</table>
+
+![](/Day35/.png)
+[![Video Title](/Day35/RainAlert_Project.png)](https://youtu.be/g_-eNNz1BNk)<br/><br/>
+
+- ## Day 3   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
         <td></td>
     </tr>
     <tr>
@@ -766,14 +790,14 @@ IssOverheadNotifier_Project
     </tr>
     <tr>
         <td><strong>Link</strong></td>
-        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day35"></a></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day3"></a></td>
     </tr>
     <tr>
         <td><strong>Video Link</strong></td>
-        <td><a href="https://youtu.be/HbbzzYnguEA"></a></td>
+        <td><a href="https://youtu.be/g_-eNNz1BNk"></a></td>
     </tr>
     
 </table>
 
-![](/Day35/.png)
-[![Video Title](/Day35/.png)](https://youtu.be/GqFyZ6992JY)<br/><br/>
+![](/Day3/.png)
+[![Video Title](/Day3/.png)](https://youtu.be/g_-eNNz1BNk)<br/><br/>

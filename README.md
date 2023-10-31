@@ -778,6 +778,29 @@ IssOverheadNotifier_Project
 ![](/Day35/.png)
 [![Video Title](/Day35/RainAlert_Project.png)](https://youtu.be/g_-eNNz1BNk)<br/><br/>
 
+- ## Day 36   ##                                                                   
+<table>
+    <tr>
+        <td><strong>Topics</strong></td>
+        <td>API Authentication, Keys, Twilio(SMS), Environment variables, NewsAPI, AlphaVantage API(Stock)</td>
+    </tr>
+    <tr>
+        <td><strong>Project</strong></td>
+        <td>StockTradingNewsAlert Project</td>
+    </tr>
+    <tr>
+        <td><strong>Link</strong></td>
+        <td><a href="https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day36">https://github.com/dhesika-ts/100DaysOfPython/tree/main/Day36</a></td>
+    </tr>
+    <tr>
+        <td><strong>Video Link</strong></td>
+        <td><a href="https://youtu.be/6doh3kYdyZI">https://youtu.be/6doh3kYdyZI</a></td>
+    </tr>
+    
+</table>
+
+[![Video Title](/Day36/StockTradingNewsAlert_Project.png)](https://youtu.be/6doh3kYdyZI)<br/><br/>
+
 - ## Day 3   ##                                                                   
 <table>
     <tr>
@@ -800,4 +823,4 @@ IssOverheadNotifier_Project
 </table>
 
 ![](/Day3/.png)
-[![Video Title](/Day3/.png)](https://youtu.be/g_-eNNz1BNk)<br/><br/>
+[![Video Title](/Day3/.png)](https://youtu.be/6doh3kYdyZI)<br/><br/>
